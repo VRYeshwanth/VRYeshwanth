@@ -1,5 +1,7 @@
 # 👋 Hi, I'm V R Yeshwanth  
 
+![Views](https://komarev.com/ghpvc/?username=VRYeshwanth&label=Profile+Views&color=blue&style=flat-square)
+
 Welcome to my GitHub profile! I'm a developer who enjoys building full-stack applications, exploring new technologies, and solving real-world problems.
 
 ---
@@ -35,13 +37,17 @@ Welcome to my GitHub profile! I'm a developer who enjoys building full-stack app
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=VRYeshwanth&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=VRYeshwanth&theme=tokyonight)
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VRYeshwanth&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
-- Email: [Email](vryeshwanth06@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yeshwanth-v-r-38a878395/)
+### 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:vryeshwanth06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/yeshwanth-v-r-38a878395/)
+
 
 ---
 
