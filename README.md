@@ -1,16 +1,25 @@
 # 👋 Hi, I'm V R Yeshwanth  
-
-![Views](https://komarev.com/ghpvc/?username=VRYeshwanth&label=Profile+Views&color=blue&style=flat-square)
-
 Welcome to my GitHub profile! I'm a developer who enjoys building full-stack applications, exploring new technologies, and solving real-world problems.
+<br>
+💡 Currently focused on building full-stack projects and strengthening core computer science fundamentals.
 
 ---
 
 ## 🚀 About Me
 
-- Undergraduate student at **UVCE, Bangalore**
-- Interested in Web Development, problem-solving, and logic building
-- Passionate about learning new technologies and creating real projects
+- I’m a passionate learner who enjoys programming, mathematics, and logical problem-solving.
+- I’m currently learning web development to build more robust and cross-platform applications.
+- I believe in learning by building projects, experimenting with code, and improving step by step.
+- I value clean, readable code and enjoy breaking down complex ideas into simple concepts.
+
+---
+
+## 📌 Featured Projects
+
+- **Blog Post App** - A MERN-based blog website ([Repo](https://github.com/VRYeshwanth/Blog-Post-App))
+- **Portfolio** – A website about myself and my work ([Repo](https://github.com/VRYeshwanth/Portfolio))
+
+👉 Check out my repositories for more projects.
 
 ---
 
@@ -51,4 +60,6 @@ Welcome to my GitHub profile! I'm a developer who enjoys building full-stack app
 
 ---
 
-Thank you for visiting my profile! 😊
+⭐ Feel free to explore my repositories and connect with me.  
+I’m always open to learning, feedback, and collaboration.
+
